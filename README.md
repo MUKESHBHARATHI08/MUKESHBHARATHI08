@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MUKESH BHARATHI</h1>
-<h3 align="center">A passionate AWS Developer from India</h3>
+<h3 align="center">Junior Devops Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukeshbharathi08&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshbharathi08" /> </p>
 
